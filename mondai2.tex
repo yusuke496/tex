@@ -1,0 +1,55 @@
+\documentclass[11pt,a4paper]{jsarticle}
+%
+\usepackage{amsmath,amssymb}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{ascmac}
+%
+\setlength{\textwidth}{\fullwidth}
+\setlength{\textheight}{40\baselineskip}
+\addtolength{\textheight}{\topskip}
+\setlength{\voffset}{-0.2in}
+\setlength{\topmargin}{0pt}
+\setlength{\headheight}{0pt}
+\setlength{\headsep}{0pt}
+%
+\newcommand{\divergence}{\mathrm{div}\,}  %ダイバージェンス
+\newcommand{\grad}{\mathrm{grad}\,}  %グラディエント
+\newcommand{\rot}{\mathrm{rot}\,}  %ローテーション
+%
+
+\title{自然対数のABC}
+%\author{yusuke496}
+\date{\today}
+\begin{document}
+\maketitle
+
+必要ならヒント見ながらやってみてね。\\
+
+次の極限は収束する。
+
+\begin{eqnarray}
+    \lim_{t \rightarrow \infty}\left( 1+\frac{1}{t} \right)^t \nonumber    
+\end{eqnarray}
+
+この値を$e$と置く。
+
+\section*{第1問}
+次式を証明せよ。
+\begin{eqnarray}
+    \frac{d}{dx}\left( \log_e x \right) = \frac{1}{x} \nonumber
+\end{eqnarray}
+
+\section*{第2問}
+$a \in \mathbb{R}$に対して次式を証明せよ。
+\begin{eqnarray}
+    \frac{d}{dx}\left( a^x \right) = \log_e a \times a^x \nonumber
+\end{eqnarray}
+
+\section*{第3問}
+第2問の結果を用いて、次式を証明せよ。
+\begin{eqnarray}
+    \lim_{h \rightarrow 0} \frac{e^h-1}{h} = 1 \nonumber
+\end{eqnarray}
+
+\end{document}

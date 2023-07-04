@@ -1,0 +1,42 @@
+\documentclass[11pt,a4paper]{jsarticle}
+%
+\usepackage{amsmath,amssymb}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{ascmac}
+%
+\setlength{\textwidth}{\fullwidth}
+\setlength{\textheight}{40\baselineskip}
+\addtolength{\textheight}{\topskip}
+\setlength{\voffset}{-0.2in}
+\setlength{\topmargin}{0pt}
+\setlength{\headheight}{0pt}
+\setlength{\headsep}{0pt}
+%
+\newcommand{\divergence}{\mathrm{div}\,}  %ダイバージェンス
+\newcommand{\grad}{\mathrm{grad}\,}  %グラディエント
+\newcommand{\rot}{\mathrm{rot}\,}  %ローテーション
+%
+
+\title{円周率のいろは}
+\author{yusuke496}
+\date{\today}
+\begin{document}
+\maketitle
+
+\section*{第1問}
+円と円周率の定義を述べよ
+
+\section*{第2問}
+円周率は定数である。これを\pi で表す。次式を証明せよ。
+
+\begin{eqnarray}
+\int_{-1}^{1}\frac{1}{\sqrt{1-x^2}}dx=\pi \nonumber
+\end{eqnarray}
+
+なお、上式の左辺は積分可能である事は用いてよいものとする。
+
+\section*{第3問}
+第2問の結果を用いて、半径1の円の面積が\pi となることを示せ。
+  
+\end{document}
