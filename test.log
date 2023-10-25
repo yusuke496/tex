@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.uptex) (TeX Live 2023) (preloaded format=uplatex 2023.9.30)  25 OCT 2023 10:37
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.uptex) (TeX Live 2023) (preloaded format=uplatex 2023.10.25)  25 OCT 2023 13:59
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -7,7 +7,7 @@ entering extended mode
 (./test.tex
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
+L3 programming layer <2023-10-10>
 (c:/texlive/2023/texmf-dist/tex/platex/jsclasses/jsarticle.cls
 Document Class: jsarticle 2023/02/23 jsclasses (okumura, texjporg)
 Class jsarticle Info: Autodetected engine: upLaTeX on input line 217.
@@ -149,7 +149,7 @@ File: dvipdfmx.def 2022/09/22 v5.0m Graphics/color driver for dvipdfmx
 \Gin@req@height=\dimen171
 \Gin@req@width=\dimen172
 ) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
+File: l3backend-dvips.def 2023-10-10 L3 backend support: dvips
 \l__pdf_internal_box=\box71
 \g__pdf_backend_object_int=\count271
 \l__pdf_backend_content_box=\box72
@@ -230,14 +230,14 @@ File: 2022_05_27_2.jpg Graphic file (type bmp)
  ***********
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
+L3 programming layer <2023-10-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2077 strings out of 475586
- 30362 string characters out of 5777886
- 1915621 words of memory out of 5000000
- 23618 multiletter control sequences out of 15000+600000
+ 2076 strings out of 475162
+ 30336 string characters out of 5771049
+ 1917879 words of memory out of 5000000
+ 24041 multiletter control sequences out of 15000+600000
  576215 words of font info for 119 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  57i,6n,65p,518b,388s stack positions out of 10000i,1000n,20000p,200000b,200000s

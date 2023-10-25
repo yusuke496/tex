@@ -1,26 +1,34 @@
 # Fdb version 4
-["dvipdf"] 1698209949 "document.dvi" "document.pdf" "document" 1698209950 0
-  "document.dvi" 1698209949 1016 db1f4c555123f946e698ff9fb3f6d28b "latex"
+["dvipdf"] 1698209951 "mondai.dvi" "mondai.pdf" "mondai" 1698209952 0
+  "mondai.dvi" 1698209951 1460 5108cd15df1faacf9687d05ae296ffee "latex"
   (generated)
-  "document.pdf"
+  "mondai.pdf"
   (rewritten before read)
-["latex"] 1698209948 "document.tex" "document.dvi" "document" 1698209950 0
-  "apple.eps" 1612696286 501347 47f6cee34b7d15d3cfa06ef8038bd3e2 ""
+["latex"] 1698209951 "mondai.tex" "mondai.dvi" "mondai" 1698209952 0
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1698179288 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1698166670 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1698166670 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1698166670 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm" 1698166670 1120 200be8b775682cdf80acad4be5ef57e4 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1698166670 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1698166670 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm" 1698166670 1496 c79f6914c6d39ffb3759967363d1be79 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm" 1698166670 1516 a3bf6a5e7ec4401b1f52092dfaaed242 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm" 1698166670 1508 6e807ff901c35a5f1fde0ca275533df8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm" 1698166670 1528 dab402b9d3774ca98baa037071cee7ae ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1698166670 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1698166670 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1698166670 928 2dc8d444221b7a635bb58038579b861a ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1698166670 908 2921f8a10601f252058503cc6570e581 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1698166670 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1698166670 940 228d6584342e91276bf566bcf9716b83 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/ascmac/ascgrp.tfm" 1698167951 448 9a1f3a95c3a7e2681aa6eefcf410b7ac ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm" 1698175067 1116 4e6ba9d7914baa6482fd69f67d126380 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1698175067 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1698175067 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1698175067 1332 f817c21a1ba54560425663374f1b651a ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm" 1698175067 1344 8a0be4fe4d376203000810ad4dc81558 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1698175067 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1698175067 1332 1fde11373e221473104d6cc5993f046e ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1698175067 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1698175067 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -31,7 +39,6 @@
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1698175067 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1698175067 1300 b62933e007d01cfd073f79b963c01526 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1698175067 1292 21c1c5bfeaebccffdb478fd231a0997d ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1698175067 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1698175067 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1698175067 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1698175067 1116 933a60c408fc0a863a92debe84b2d294 ""
@@ -64,10 +71,10 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1698165347 41009 84b61f42d16d06bedb915f57aa2374cf ""
   "c:/texlive/2023/texmf-var/web2c/euptex/uplatex.fmt" 1698188974 8131141 20b411dd7e3080218e669551a740c57b ""
   "c:/texlive/2023/texmf.cnf" 1698188855 713 e69b156964470283e0530f5060668171 ""
-  "document.aux" 1698209949 280 bdedac2490e08ae3d50fe6964c383c78 "latex"
-  "document.tex" 1669867411 989 d3ec1ccdd928c08426f179195aff9238 ""
+  "mondai.aux" 1698209951 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "mondai.tex" 1696048982 1139 9178b4ec98183d67ebeb37a522c1e321 ""
   (generated)
-  "document.aux"
-  "document.dvi"
-  "document.log"
+  "mondai.aux"
+  "mondai.dvi"
+  "mondai.log"
   (rewritten before read)
