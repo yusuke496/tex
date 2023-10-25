@@ -1,0 +1,20 @@
+# Fdb version 4
+["dvipdf"] 1698197868 "whichtex.dvi" "whichtex.pdf" "whichtex" 1698197869 0
+  "whichtex.dvi" 1698197868 628 7bea4172d93020c2d1c79a6726bd53a5 "latex"
+  (generated)
+  "whichtex.pdf"
+  (rewritten before read)
+["latex"] 1698197868 "whichtex.tex" "whichtex.dvi" "whichtex" 1698197869 0
+  "c:/texlive/2023/texmf-dist/tex/latex/base/article.cls" 1696032122 20144 fbcf51733730d8f1a62143512ff5b1fe ""
+  "c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo" 1696032122 8448 74078c4a887f2cdcd57c3ec111622740 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1696032037 35615 a6d1a4c99e7a18682a65dab9f3f2d901 ""
+  "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1695958280 40967 d940221f8762fd5848760382d97d1226 ""
+  "c:/texlive/2023/texmf-var/web2c/euptex/uplatex.fmt" 1696046762 8115810 a47ecc009a6e0c1f0e6b03c40412ebc2 ""
+  "c:/texlive/2023/texmf.cnf" 1696046633 713 e69b156964470283e0530f5060668171 ""
+  "whichtex.aux" 1698197868 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "whichtex.tex" 1688694540 4031 ecd1170f432d49c9147d52cdab79467b ""
+  (generated)
+  "whichtex.aux"
+  "whichtex.dvi"
+  "whichtex.log"
+  (rewritten before read)
