@@ -1,0 +1,75 @@
+\documentclass[11pt,a4paper]{jsarticle}
+%
+\usepackage{amsmath,amssymb}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{ascmac}
+%
+%\setlength{\textwidth}{\fullwidth}
+\setlength{\textheight}{40\baselineskip}
+\addtolength{\textheight}{\topskip}
+\setlength{\voffset}{-0.2in}
+\setlength{\topmargin}{0pt}
+\setlength{\headheight}{0pt}
+\setlength{\headsep}{0pt}
+%
+\newcommand{\divergence}{\mathrm{div}\,}  %ダイバージェンス
+\newcommand{\grad}{\mathrm{grad}\,}  %グラディエント
+\newcommand{\rot}{\mathrm{rot}\,}  %ローテーション
+%
+
+\title{難しいけど解けそうで解けない気がするけどでも解ける方程式}
+%\author{yusuke496}
+\date{\today}
+\begin{document}
+\maketitle
+
+\section*{第1問}
+
+\begin{eqnarray}
+    (x-1)(x^2+x+1)
+\end{eqnarray}
+
+を展開せよ。
+(90点)
+
+\section*{第2問}
+
+\begin{eqnarray}
+    x^4+3x^3+x^2-2=0
+\end{eqnarray}
+
+を複素数の範囲で解け。
+(10点)
+
+\newpage
+\section*{解答例}
+第1問は分配法則から逐一計算すると
+\begin{eqnarray}
+    x^3-1 \nonumber
+\end{eqnarray}
+となる。
+第2問は頑張って次の式変形を思いつくと簡単に解ける(もちろん因数定理やその発展版を用いることもできる)。
+
+\begin{eqnarray}
+    x^4+3x^3+x^2-2&=&x^2(x^2+x+1)+2(x^3-1) \nonumber \\ 
+    &=&x^2(x^2+x+1)+2(x-1)(x^2+x+1) \nonumber \\
+    \label{hoge}
+    &=&(x^2+x+1)(x^2+2x-2)
+\end{eqnarray}
+
+式\ref{hoge}から
+\begin{eqnarray}
+    \label{hoge1}
+    x^2+x+1&=&0\\
+    \label{hoge2}
+    x^2+2x-2&=&0
+\end{eqnarray}
+式\ref{hoge1}、 \ref{hoge2}を解くと、
+
+\begin{eqnarray}
+    x=-1\pm \sqrt{2},\ \frac{-1\pm \sqrt{3}i}{2} \nonumber
+\end{eqnarray}
+を得る。ここで$i$は$\sqrt{-1}$である。
+
+\end{document}

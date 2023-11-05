@@ -1,14 +1,21 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.4.13)  7 JUL 2023 11:09
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.uptex) (TeX Live 2023) (preloaded format=uplatex 2023.10.25)  25 OCT 2023 13:59
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/yusuke/OneDrive/Documents/tex/whichtex
-(c:/Users/yusuke/OneDrive/Documents/tex/whichtex.tex
-pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
-L3 programming layer <2023-03-30> (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+**whichtex.tex
+(./whichtex.tex
+pLaTeX2e <2023-02-14u04>+1, based on
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 54.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 54.
 )
 \c@part=\count184
 \c@section=\count185
@@ -24,7 +31,7 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 File: hello.tex 2023/02/25 v0.3 hello my workflow
  (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2023-03-30 L3 backend support: dvips
+File: l3backend-dvips.def 2023-10-10 L3 backend support: dvips
 \l__pdf_internal_box=\box68
 \g__pdf_backend_object_int=\count192
 \l__pdf_backend_content_box=\box69
@@ -49,24 +56,34 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 136.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 136.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 137.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 137.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 6.73553pt on input line 137.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 6.73553pt on input line 137.
  [1
 
-] (./whichtex.aux) ) 
+] (./whichtex.aux)
+ ***********
+pLaTeX2e <2023-02-14u04>+1, based on
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 447 strings out of 476685
- 8589 string characters out of 5808308
- 1843481 words of memory out of 5000000
- 20991 multiletter control sequences out of 15000+600000
- 516158 words of font info for 49 fonts, out of 8000000 for 9000
+ 449 strings out of 475162
+ 8557 string characters out of 5771049
+ 1913879 words of memory out of 5000000
+ 22510 multiletter control sequences out of 15000+600000
+ 560710 words of font info for 54 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 33i,5n,38p,221b,170s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,5n,50p,186b,172s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on whichtex.dvi (1 page, 628 bytes).
